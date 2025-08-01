@@ -27,7 +27,7 @@
     const lastP     = document.querySelector('p:last-of-type')
     let   today     = new Date();
     lastP.innerHTML = today.toLocaleString();  
-    //수정하러 가기
+    //수정하러 가기!!
   </script>
 </body>
 </html>
